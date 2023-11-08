@@ -2,7 +2,6 @@ package com.example.zhan5410;
 
 import java.io.BufferedReader;
 import java.io.File;
-//import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -10,19 +9,14 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
-
 import javax.swing.JButton;
 import javax.swing.JComponent;
 import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-//import javax.swing.JScrollBar;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
-import javax.swing.WindowConstants;
-//import javax.swing.text.JTextComponent;
-
 public class main1102 {
 	private JFrame jframe ;
 	private JTextField jtf_filepathway;
@@ -90,7 +84,7 @@ public class main1102 {
 	private void run() {							//run
 		jframe.setSize(800, 300);
 		jframe.setLayout(new GridBagLayout());
-		jframe.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+		jframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
 		//handle lable
 		for(int i=0 ; i<3 ; i++) {
@@ -146,7 +140,7 @@ public class main1102 {
 				System.out.println("open file");
 				JFileChooser jfc = new JFileChooser();
 				int returnvalue = jfc.showOpenDialog(jframe);
-				if(returnvalue == jfc.APPROVE_OPTION){
+				if(returnvalue == JFileChooser.APPROVE_OPTION){
 					File file = jfc.getSelectedFile();
 					jtf_filepathway.setText(file.getAbsolutePath());
 				}
