@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="MS950"/>
-    <property name="java.class.path" value="D:\java_course\java_course\target\test-classes;D:\java_course\java_course\target\classes;C:\Users\jack6\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jack6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="D:\MyCode\java_course\java_course\target\test-classes;D:\MyCode\java_course\java_course\target\classes;C:\Users\jack6\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jack6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="TW"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk21.0.1_12\bin"/>
-    <property name="sun.java.command" value="C:\Users\jack6\AppData\Local\Temp\surefire9698616486176796070\surefirebooter7505348608700440636.jar C:\Users\jack6\AppData\Local\Temp\surefire9698616486176796070 2023-11-09T00-56-54_366-jvmRun1 surefire4866552580287926438tmp surefire_04551460671219182199tmp"/>
+    <property name="sun.java.command" value="C:\Users\jack6\AppData\Local\Temp\surefire16776129371178897486\surefirebooter6207398576002548830.jar C:\Users\jack6\AppData\Local\Temp\surefire16776129371178897486 2023-11-09T09-24-50_705-jvmRun1 surefire16945230952982152017tmp surefire_017952930764544633639tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\java_course\java_course\target\test-classes;D:\java_course\java_course\target\classes;C:\Users\jack6\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jack6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="D:\MyCode\java_course\java_course\target\test-classes;D:\MyCode\java_course\java_course\target\classes;C:\Users\jack6\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\jack6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\jack6"/>
     <property name="user.language" value="zh"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2023-10-17"/>
     <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk21.0.1_12"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="D:\java_course\java_course"/>
+    <property name="basedir" value="D:\MyCode\java_course\java_course"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\jack6\AppData\Local\Temp\surefire9698616486176796070\surefirebooter7505348608700440636.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\jack6\AppData\Local\Temp\surefire16776129371178897486\surefirebooter6207398576002548830.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.1+12-LTS"/>
@@ -46,7 +46,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-21/issues/"/>
     <property name="java.io.tmpdir" value="C:\Users\jack6\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.1"/>
-    <property name="user.dir" value="D:\java_course\java_course"/>
+    <property name="user.dir" value="D:\MyCode\java_course\java_course"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>

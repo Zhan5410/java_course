@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 public class main1012_2 {
-	int numofbut = 50;
+	int numofbut = 50; //地鼠格子的數量
 	int nownum = 0;
 	int score = 0;
 	
